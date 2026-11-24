@@ -1,3 +1,10 @@
+Ansible Messenger — журналирование на C++
+=========================================
+
+.. note::
+
+   Происхождение кода Ansible Messenger: форк https://github.com/google/glog.
+
 Google Logging Library
 ======================
 
